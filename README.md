@@ -1,7 +1,5 @@
 # Assignment 6 Description (9% of total grade) #
 
-**Due: May 10th**
-
 The task for this assignment is the implementation of Line Integral Convolution (LIC) plus color coded overlays for scalar fields.
 
 ## Reading assignments ##
